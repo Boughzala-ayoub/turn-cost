@@ -1,0 +1,4 @@
+{
+  "description": "Per-turn cost and tokens, subagents included, drawn on the turn's closing line",
+  "modules": ["./register.ts"]
+}

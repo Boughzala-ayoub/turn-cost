@@ -1,0 +1,6 @@
+{
+  "name": "turn-cost",
+  "version": "0.1.2",
+  "description": "Appends what each turn cost to the line that closes it in the transcript (`Baked for 41s · $0.42 · in 12.3k out 2.1k cache 1.4M · 2 agents`), subagents included. Draws nothing else.",
+  "author": { "name": "ayoub" }
+}
